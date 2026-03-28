@@ -1,6 +1,7 @@
 /* Global text color */
 body {
   color: #000;
+  background-color: #f6f6f6;
 }
 
 * {
